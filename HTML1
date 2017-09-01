@@ -1,0 +1,11 @@
+<!-- COMMENT   --><HTML>
+HELLO this is some javba script
+<HEAD>  HEAD SECTION
+<!--  Header Information -->
+<!--  Title in Browser -->
+<TITLE> MY TEST HTML PAGE </TITLE>
+</HEAD>
+<BODY bgcolor="11ffff">
+HELLO this is some java script
+</BODY>
+</HTML>
